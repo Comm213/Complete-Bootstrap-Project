@@ -1,0 +1,73 @@
+.navbar {
+  padding: 0.8rem;
+}
+.navbar-nav li {
+  padding-right: 20px;
+}
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.animation {
+  font-size: 2.5rem;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+/* .social:hover {
+  font-size: 2.5rem;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+} */
+
+.skills {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #000;
+}
+.skills h2 {
+  font-weight: bold;
+  font-size: 30px;
+
+  margin: 0 0 50px;
+  text-align: center;
+}
+
+.progress-title {
+  padding-bottom: 2rem;
+  font-weight: bolder;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: #fff;
+}
+
+.progress-value {
+  font-weight: bolder;
+  font-size: 15px;
+  font-style: oblique;
+}
+
+#title {
+  height: 20px;
+  width: 100%;
+}
+
+.GithubRepos {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #fff;
+}
+
+.GithubRepos h2 {
+  font-weight: bold;
+  font-size: 30px;
+  margin: 0 0 50px;
+  text-align: center;
+}

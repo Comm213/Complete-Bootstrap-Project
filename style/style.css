@@ -71,3 +71,25 @@
   margin: 0 0 50px;
   text-align: center;
 }
+
+@media (min-width: 576px) {
+  #con-header {
+    font-size: 5px;
+  }
+}
+
+.GithubRepos {
+  margin-bottom: 75px;
+}
+
+@media (min-width: 576px) {
+  .GithubRepos {
+    margin-bottom: 75px;
+  }
+}
+
+@media (min-width: 768px) {
+  .GithubRepos {
+    margin-bottom: 75px;
+  }
+}

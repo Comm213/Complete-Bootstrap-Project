@@ -21,13 +21,11 @@ xhr.open("GET", url, true);
 // When request is received
 // Process it here
 xhr.onload = function () {
-  
   // Parse API data into JSON
   const data = JSON.parse(this.response);
 
   // Loop over each object in data array
   for (let i in data) {
-  
     // Get the ul with id of of userRepos
     let ul = document.getElementById("gitBio");
 

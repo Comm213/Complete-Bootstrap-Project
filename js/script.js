@@ -4,8 +4,7 @@ $(document).ready(function () {
   $(".social").hover(function () {
     $(this).toggleClass("animation");
   });
-});
-
+}); 
 // Github repos
 
 // Create new XMLHttpRequest object

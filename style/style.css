@@ -13,7 +13,7 @@
   height: 100%;
 }
 
-.animation {
+.animation:hover {
   font-size: 2.5rem;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -93,12 +93,12 @@ footer {
   color: #d5d5d5;
   padding-top: 2rem;
 }
-hr.light {
+/* hr.light {
   border-top: 1px solid #d5d5d5;
   width: 75%;
   margin-top: 0.8rem;
   margin-bottom: 1rem;
-}
+} */
 
 @media (max-width: 576px) {
   #Final {
@@ -119,12 +119,12 @@ hr.light {
     color: #d5d5d5;
     padding-top: 1rem;
   }
-  hr.light {
+  /* hr.light {
     border-top: 1px solid #d5d5d5;
     width: 75%;
     margin-top: 0.8rem;
     margin-bottom: 1rem;
-  }
+  } */
 }
 
 .last {
